@@ -12,7 +12,7 @@
 ### •	Inline table-valued functions
 ### •	Paging
 ### •	Stored procedures
----
+
 ## Projects
 
 ### 1. Customer Complaints Project

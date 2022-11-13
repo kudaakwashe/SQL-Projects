@@ -16,4 +16,4 @@
 ## Projects
 ---
 ### 1. Customer Complaints Project
-*Complaints can give us insights into problems people are experiencing in the marketplace and help us regulate consumer financial products and services under existing federal consumer financial laws, enforce those laws judiciously, and educate and empower consumers to make informed financial decisions.* [Customer Complaints Data]([https://www.example.com](https://www.consumerfinance.gov/data-research/consumer-complaints/))
+*Complaints can give us insights into problems people are experiencing in the marketplace and help us regulate consumer financial products and services under existing federal consumer financial laws, enforce those laws judiciously, and educate and empower consumers to make informed financial decisions. [Customer Complaints Data](https://www.consumerfinance.gov/data-research/consumer-complaints/)*

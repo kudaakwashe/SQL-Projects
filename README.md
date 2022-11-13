@@ -14,7 +14,7 @@
 ### •	Stored procedures
 ---
 ## Projects
----
+
 ### 1. Customer Complaints Project
 *The data used gives an insight into problems people are experiencing with financial products and services under existing federal consumer financial laws. [Customer Complaints Data](https://www.consumerfinance.gov/data-research/consumer-complaints/)*
 
